@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm RAHUL CHOUDHARY</h1>
 <h3 align="center">A passionate Full Stack Developer with expertise in MongoDB, ExpressJs, ReactJs and NodeJs</h3>
 
-- 🔭 I’m currently working on **Zylocart(Modern E-Commerce Website)**
+- 🔭 I’m currently working on **Zylokart(Modern E-Commerce Website)**
 
 - 🌱 I’m currently learning **MERN Stack**
 
